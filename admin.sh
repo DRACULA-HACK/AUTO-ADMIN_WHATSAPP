@@ -1,6 +1,6 @@
 clear
 termux-setup-storage
-figlet -f slant "Auto Admin"
+figlet -f slant "AUTO-ADMIN_WHATSAPP"
 
 
 
