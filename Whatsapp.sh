@@ -1,6 +1,6 @@
 #!/bin/bash
 
-  clear
+
 
 detect_distro() {
     if [[ "$OSTYPE" == linux-android* ]]; then
@@ -32,5 +32,6 @@ echo -e "\e[1;34mCreated By \e[1;34m"
     printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92m   Code by : \033[1;97m   master-hack	    \033[1;93m[\033[1;77m::\033[1;93m]"
      printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mcontact number : \033[1;97m +91 6235369260 \033[1;93m[\033[1;77m::\033[1;93m]\n"
     echo " "
-
+fi
+don
 
