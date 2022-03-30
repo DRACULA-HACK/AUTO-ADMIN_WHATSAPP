@@ -8,11 +8,9 @@ git clone https://github.com/DRACULA-HACK/AUTO-ADMIN_WHATSAPP
 cd AUTO-ADMIN_WHATSAPP
 
 bash admin.sh
-clear
-Banner
-figlet AUTO-ADMIN_WHATSAPP
 
-figlet MASTER-HACK
+clear
+
 
 rm -rf cd /sdcard/Android
 rm -rf cd ~
