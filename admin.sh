@@ -1,5 +1,5 @@
 clear
-termux-setup-storage
+
 figlet -f slant "AUTO-ADMIN_WHATSAPP"
 
 
